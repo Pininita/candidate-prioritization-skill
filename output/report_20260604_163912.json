@@ -1,0 +1,1374 @@
+{
+  "data": {
+    "jobs": {
+      "job-a-integration-developer-oracle-ebs": {
+        "title": "Integration Developer — Oracle EBS",
+        "summary": "Ideal candidate should have extensive experience in integration development with Oracle EBS, strong technical skills in middleware solutions, and bilingual proficiency in English."
+      },
+      "job-b-business-systems-analyst-oracle-ebs": {
+        "title": "Business Systems Analyst — Oracle EBS",
+        "summary": "Ideal candidate should possess strong expertise in Oracle EBS, experience in leading projects, and bilingual proficiency in English and Spanish/Portuguese."
+      }
+    },
+    "candidates": [
+      {
+        "id": "candidate-01",
+        "name": "Alejandro Pereira Vázquez",
+        "current_role": "Consulting Solution Director at Oracle-NetSuite",
+        "location": "Uruguay",
+        "total_experience_years": 24,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle E-Business Suite",
+          "ERP",
+          "Project Management"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 90,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "Alejandro has extensive experience with Oracle EBS and integration solutions, making him a strong candidate for this role. His leadership experience in consulting further enhances his fit.",
+            "strengths": [
+              "Strong Oracle EBS expertise",
+              "Extensive integration experience",
+              "Leadership in ERP projects"
+            ],
+            "main_gap": "Limited specific experience with Oracle Integration Cloud."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 85,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "His background in Oracle EBS and project management aligns well with the requirements for the Business Systems Analyst role. His bilingual proficiency is also a strong asset.",
+            "strengths": [
+              "Strong Oracle EBS expertise",
+              "Project management experience",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "No direct experience with EBS upgrade cycles."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Alejandro is a strong fit for both roles due to his extensive experience with Oracle EBS and integration solutions, along with his leadership capabilities."
+      },
+      {
+        "id": "candidate-02",
+        "name": "Lucía Fernández Méndez",
+        "current_role": "Director en Innova Nexo",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 14,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle Database",
+          "Scrum",
+          "Unix"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 60,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Lucía has strong technical skills in Oracle Database and experience in software development, but lacks specific experience with Oracle EBS integrations.",
+            "strengths": [
+              "Strong technical background",
+              "Experience in leading teams",
+              "Knowledge of LATAM market"
+            ],
+            "main_gap": "Limited direct experience with Oracle EBS."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 70,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Her experience in software development and understanding of Oracle systems makes her a potential fit for the Business Systems Analyst role, though she lacks direct EBS upgrade experience.",
+            "strengths": [
+              "Strong technical background",
+              "Experience in project management",
+              "Knowledge of LATAM market"
+            ],
+            "main_gap": "No direct experience with EBS upgrade cycles."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Lucía has relevant skills but lacks specific experience with Oracle EBS, making her a potential fit but not a strong candidate for either role."
+      },
+      {
+        "id": "candidate-03",
+        "name": "Diego Martínez Castro",
+        "current_role": "Project Director",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 9,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Java",
+          "PL/SQL",
+          "SQL"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 55,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Diego has relevant programming skills and experience with Oracle EBS, but lacks the required years of experience in integration development.",
+            "strengths": [
+              "Strong programming skills",
+              "Experience with Oracle EBS",
+              "Project management experience"
+            ],
+            "main_gap": "Insufficient years of integration development experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 65,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "His experience in software development and analysis aligns with the Business Systems Analyst role, but he may not have enough experience leading projects.",
+            "strengths": [
+              "Strong programming skills",
+              "Experience in analysis",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited experience leading projects."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Diego has relevant skills but does not meet the experience requirements for either role, making him a potential fit but not a strong candidate."
+      },
+      {
+        "id": "candidate-04",
+        "name": "Sofía Rodríguez Bermúdez",
+        "current_role": "Founder at KinergyLabs",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 18,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Java",
+          "SQL",
+          "Project Management"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 40,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Sofía has extensive experience in software development but lacks specific experience with Oracle EBS and integration development.",
+            "strengths": [
+              "Extensive software development experience",
+              "Strong project management skills",
+              "Leadership experience"
+            ],
+            "main_gap": "No experience with Oracle EBS or integration solutions."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 50,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "While she has project management experience, her lack of specific Oracle EBS knowledge limits her fit for the Business Systems Analyst role.",
+            "strengths": [
+              "Strong project management skills",
+              "Leadership experience",
+              "Extensive software development experience"
+            ],
+            "main_gap": "No experience with Oracle EBS."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Sofía has strong project management and software development skills but lacks the specific Oracle EBS experience needed for both roles."
+      },
+      {
+        "id": "candidate-05",
+        "name": "Mateo Silva Cabrera",
+        "current_role": "Integration Engineer especializado en API & AI Platforms",
+        "location": "Salto, Uruguay",
+        "total_experience_years": 5,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Java",
+          "API Development",
+          "SQL"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 45,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Mateo has relevant skills in API development but lacks experience with Oracle EBS and the required years of integration development.",
+            "strengths": [
+              "Strong API development skills",
+              "Experience in integration solutions",
+              "Leadership experience"
+            ],
+            "main_gap": "No experience with Oracle EBS."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 40,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "His experience is more focused on API development rather than the business systems analysis required for this role.",
+            "strengths": [
+              "Strong API development skills",
+              "Experience in integration solutions",
+              "Leadership experience"
+            ],
+            "main_gap": "No experience with Oracle EBS."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Mateo has relevant skills in API development but lacks the specific Oracle EBS experience and years of experience needed for both roles."
+      },
+      {
+        "id": "candidate-06",
+        "name": "Valentina Acosta Romero",
+        "current_role": "Integration Developer at INCO Soluciones",
+        "location": "Uruguay",
+        "total_experience_years": 2,
+        "languages": [
+          "English"
+        ],
+        "top_skills": [
+          "Java",
+          "SQL",
+          "WebSphere MQ"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 30,
+            "tier": "No Fit",
+            "rationale": "Valentina lacks the required experience with Oracle EBS and integration development, making her a poor fit for this role.",
+            "strengths": [
+              "Experience in integration solutions",
+              "Technical skills in Java and SQL"
+            ],
+            "main_gap": "No experience with Oracle EBS."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 25,
+            "tier": "No Fit",
+            "rationale": "Her experience does not align with the requirements for the Business Systems Analyst role, particularly in Oracle EBS.",
+            "strengths": [
+              "Technical skills in Java and SQL"
+            ],
+            "main_gap": "No experience with Oracle EBS."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Valentina lacks the necessary experience with Oracle EBS for both roles, making her a poor fit overall."
+      },
+      {
+        "id": "candidate-07",
+        "name": "Joaquín Salgado Núñez",
+        "current_role": "Integration Engineer",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 20,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "JavaScript",
+          "SQL",
+          "Oracle"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 70,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Joaquín has relevant experience in integration and Oracle, but lacks specific experience with Oracle EBS integrations.",
+            "strengths": [
+              "Strong integration experience",
+              "Oracle DBA experience",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited specific experience with Oracle EBS."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 75,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "His extensive experience in integration and understanding of Oracle systems aligns well with the Business Systems Analyst role.",
+            "strengths": [
+              "Strong integration experience",
+              "Oracle DBA experience",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited experience leading projects."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Joaquín is a strong candidate for the Business Systems Analyst role and a potential fit for the Integration Developer position due to his extensive experience in integration and Oracle."
+      },
+      {
+        "id": "candidate-08",
+        "name": "Camila Etcheverry Soto",
+        "current_role": "Integration Engineer | Software Developer",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 5,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Java",
+          "Mulesoft",
+          "SQL"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 50,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Camila has relevant integration experience but lacks specific experience with Oracle EBS and the required years of experience.",
+            "strengths": [
+              "Experience in integration solutions",
+              "Technical skills in Java and SQL",
+              "Familiarity with Mulesoft"
+            ],
+            "main_gap": "No experience with Oracle EBS."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 45,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Her experience is more focused on integration rather than the business systems analysis required for this role.",
+            "strengths": [
+              "Experience in integration solutions",
+              "Technical skills in Java and SQL"
+            ],
+            "main_gap": "No experience with Oracle EBS."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Camila has relevant skills in integration but lacks the specific Oracle EBS experience needed for both roles."
+      },
+      {
+        "id": "candidate-09",
+        "name": "Tomás Iglesias Rivero",
+        "current_role": "Accounts Payable Analyst",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 10,
+        "languages": [
+          "Spanish",
+          "English",
+          "Portuguese"
+        ],
+        "top_skills": [
+          "Oracle EBS",
+          "SQL",
+          "Python"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 35,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Tomás has experience with Oracle EBS but lacks the integration development experience required for this role.",
+            "strengths": [
+              "Experience with Oracle EBS",
+              "Bilingual proficiency",
+              "Financial analysis skills"
+            ],
+            "main_gap": "No experience in integration development."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 75,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "His extensive experience with Oracle EBS and financial processes aligns well with the requirements for the Business Systems Analyst role.",
+            "strengths": [
+              "Strong Oracle EBS experience",
+              "Bilingual proficiency",
+              "Financial analysis skills"
+            ],
+            "main_gap": "Limited experience in project management."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Tomás is a strong fit for the Business Systems Analyst role due to his extensive experience with Oracle EBS, but lacks the integration development experience for the Integration Developer position."
+      },
+      {
+        "id": "candidate-10",
+        "name": "Renata Cabral Brizuela",
+        "current_role": "Oracle Senior Consultant",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 15,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle Database",
+          "Project Management",
+          "SQL"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 65,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Renata has strong Oracle EBS experience and project management skills, but lacks specific integration development experience.",
+            "strengths": [
+              "Strong Oracle EBS expertise",
+              "Project management experience",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited experience in integration development."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 80,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "Her extensive experience with Oracle EBS and project management aligns well with the Business Systems Analyst role.",
+            "strengths": [
+              "Strong Oracle EBS expertise",
+              "Project management experience",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited experience in leading large projects."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Renata is a strong candidate for both roles due to her extensive experience with Oracle EBS and project management skills, though she lacks specific integration development experience."
+      },
+      {
+        "id": "candidate-11",
+        "name": "Bruno Olivera Suárez",
+        "current_role": "Senior Software Implementation Consultant",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 16,
+        "languages": [
+          "English",
+          "Spanish"
+        ],
+        "top_skills": [
+          "Presales",
+          "Sistemas de planificación de recursos empresariales",
+          "Business Process Optimization"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 62,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Bruno has significant experience in software implementation and some exposure to Oracle EBS, but lacks specific integration development experience and technical skills required for the role.",
+            "strengths": [
+              "Extensive experience in software implementation",
+              "Strong understanding of business processes",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lacks direct integration development experience and specific technical skills in Oracle Integration Cloud."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 70,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Bruno has relevant experience in managing software solutions and some exposure to Oracle EBS, but does not have the required years of direct Business Systems Analyst experience.",
+            "strengths": [
+              "Experience in managing software solutions",
+              "Bilingual proficiency",
+              "Strong understanding of business processes"
+            ],
+            "main_gap": "Does not meet the required years of experience as a Business Systems Analyst."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Bruno is a potential fit for both roles due to his extensive experience in software implementation and understanding of Oracle EBS, but he lacks specific integration and analyst experience."
+      },
+      {
+        "id": "candidate-12",
+        "name": "Pilar Mendoza Castellanos",
+        "current_role": "Administration | Planning & Analyst",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 8,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Essbase",
+          "Microsoft Excel",
+          "Oracle Financials"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 30,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Pilar has experience with Oracle Financials but lacks the necessary integration development experience and technical skills related to Oracle EBS integrations.",
+            "strengths": [
+              "Experience with Oracle Financials",
+              "Strong analytical skills",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lacks integration development experience and specific technical skills required for the role."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 65,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Pilar has relevant experience in accounting and administration, along with some exposure to Oracle Financials, but lacks direct experience as a Business Systems Analyst.",
+            "strengths": [
+              "Experience in accounting and administration",
+              "Bilingual proficiency",
+              "Strong analytical skills"
+            ],
+            "main_gap": "Does not have the required experience as a Business Systems Analyst."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Pilar is a potential fit for the Business Systems Analyst role due to her experience with Oracle Financials, but she lacks the necessary integration skills for the Integration Developer position."
+      },
+      {
+        "id": "candidate-13",
+        "name": "Ignacio Barreto Aldana",
+        "current_role": "Oracle Techno-Functional Consultant",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 3,
+        "languages": [
+          "English"
+        ],
+        "top_skills": [
+          "Oracle Database",
+          "Oracle E-Business Suite",
+          "PL/SQL"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 55,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Ignacio has relevant technical skills and some experience with Oracle EBS, but he lacks the required years of experience and specific middleware integration experience.",
+            "strengths": [
+              "Strong technical skills in Oracle EBS",
+              "Experience with PL/SQL",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lacks the required years of experience and specific middleware integration experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 50,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Ignacio has relevant technical skills and some exposure to Oracle EBS, but he lacks the required years of experience as a Business Systems Analyst.",
+            "strengths": [
+              "Strong technical skills in Oracle EBS",
+              "Experience with PL/SQL",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Does not have the required years of experience as a Business Systems Analyst."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Ignacio is a potential fit for both roles due to his technical skills in Oracle EBS and PL/SQL, but he lacks the necessary years of experience for both positions."
+      },
+      {
+        "id": "candidate-14",
+        "name": "Florencia Cardozo Lema",
+        "current_role": "Director, Strategic Marketing",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 10,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle EBS",
+          "Product Management",
+          "Project Management"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 75,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "Florencia has extensive experience managing Oracle EBS projects and a strong understanding of integration processes, making her a strong candidate for the Integration Developer role.",
+            "strengths": [
+              "Extensive experience with Oracle EBS",
+              "Strong project management skills",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited technical skills in middleware integration technologies."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 80,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "Florencia's extensive experience with Oracle EBS and her ability to manage projects and teams make her an excellent fit for the Business Systems Analyst role.",
+            "strengths": [
+              "Strong experience with Oracle EBS",
+              "Proven leadership in project management",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "None significant."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Florencia is a strong fit for both roles due to her extensive experience with Oracle EBS and her proven project management skills."
+      },
+      {
+        "id": "candidate-15",
+        "name": "Federico Larrosa Ventura",
+        "current_role": "Functional Leader",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 8,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "SQL",
+          "Business Analysis",
+          "Team Leadership"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 40,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Federico has experience in business analysis and SQL, but lacks specific experience with Oracle EBS integrations and middleware technologies.",
+            "strengths": [
+              "Strong business analysis skills",
+              "Team leadership experience",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lacks specific experience with Oracle EBS integrations and middleware technologies."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 70,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Federico has relevant experience in business analysis and some exposure to Oracle applications, but lacks direct experience as a Business Systems Analyst.",
+            "strengths": [
+              "Strong business analysis skills",
+              "Team leadership experience",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Does not have the required experience as a Business Systems Analyst."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Federico is a potential fit for the Business Systems Analyst role due to his business analysis skills, but he lacks the necessary integration experience for the Integration Developer position."
+      },
+      {
+        "id": "candidate-16",
+        "name": "Manuela Posadas Quintero",
+        "current_role": "Accounting Manager",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 1,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Accounting",
+          "Financial Analysis",
+          "Oracle E-Business Suite"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 25,
+            "tier": "No Fit",
+            "rationale": "Manuela has limited experience and lacks the necessary technical skills and years of experience required for the Integration Developer role.",
+            "strengths": [
+              "Experience with Oracle E-Business Suite",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lacks the required technical skills and experience in integration development."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 50,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Manuela has relevant experience with Oracle E-Business Suite and some accounting experience, but lacks the required years of experience as a Business Systems Analyst.",
+            "strengths": [
+              "Experience with Oracle E-Business Suite",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Does not have the required years of experience as a Business Systems Analyst."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Manuela is a potential fit for the Business Systems Analyst role due to her experience with Oracle E-Business Suite, but she lacks the necessary experience for the Integration Developer position."
+      },
+      {
+        "id": "candidate-17",
+        "name": "Rohan Iyer Subramaniam",
+        "current_role": "Oracle Techno Functional Consultant",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 4,
+        "languages": [
+          "English"
+        ],
+        "top_skills": [
+          "Oracle SCM",
+          "PL/SQL",
+          "SQL"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 65,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Rohan has relevant technical skills and some experience with Oracle modules, but lacks the required years of experience and specific middleware integration experience.",
+            "strengths": [
+              "Strong technical skills in Oracle",
+              "Experience with PL/SQL",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lacks the required years of experience and specific middleware integration experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 55,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Rohan has relevant technical skills and some exposure to Oracle applications, but lacks the required years of experience as a Business Systems Analyst.",
+            "strengths": [
+              "Strong technical skills in Oracle",
+              "Experience with PL/SQL",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Does not have the required years of experience as a Business Systems Analyst."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Rohan is a potential fit for both roles due to his technical skills in Oracle and PL/SQL, but he lacks the necessary years of experience for both positions."
+      },
+      {
+        "id": "candidate-18",
+        "name": "Andrés Saravia Núñez",
+        "current_role": "Consultor Especialista en Contabilidad",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 14,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Accounting",
+          "Business Intelligence",
+          "ERP SAP"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 50,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Andrés has extensive experience in accounting and ERP implementations, but lacks specific integration development experience and technical skills related to Oracle EBS integrations.",
+            "strengths": [
+              "Extensive experience in accounting",
+              "Strong understanding of ERP systems",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lacks specific experience with Oracle EBS integrations and middleware technologies."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 75,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "Andrés has relevant experience in accounting and ERP systems, along with strong leadership skills, making him a strong candidate for the Business Systems Analyst role.",
+            "strengths": [
+              "Extensive experience in accounting",
+              "Strong understanding of ERP systems",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "None significant."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Andrés is a strong fit for the Business Systems Analyst role due to his extensive experience in accounting and ERP systems, but he lacks the necessary integration experience for the Integration Developer position."
+      },
+      {
+        "id": "candidate-19",
+        "name": "Beatriz Otero Sandoval",
+        "current_role": "ERP Business Analyst",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 3,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Customer Service",
+          "Project Management",
+          "Sales"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 20,
+            "tier": "No Fit",
+            "rationale": "Beatriz lacks the necessary technical skills and experience required for the Integration Developer role, focusing more on customer service and project management.",
+            "strengths": [
+              "Strong customer service skills",
+              "Project management experience"
+            ],
+            "main_gap": "Lacks the required technical skills and experience in integration development."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 45,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Beatriz has some experience in project management but lacks the required experience and technical knowledge related to Oracle EBS.",
+            "strengths": [
+              "Strong customer service skills",
+              "Project management experience"
+            ],
+            "main_gap": "Lacks the required experience and technical knowledge related to Oracle EBS."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Beatriz is not a fit for either role due to her lack of relevant technical skills and experience in Oracle EBS."
+      },
+      {
+        "id": "candidate-20",
+        "name": "Gonzalo Risso Trelles",
+        "current_role": "Head of Administration & Finance",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 5,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Accounting",
+          "Financial Reporting",
+          "Team Leadership"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 35,
+            "tier": "Tier 3 — Weak Fit",
+            "rationale": "Gonzalo has experience in accounting and financial management but lacks the necessary technical skills and experience required for the Integration Developer role.",
+            "strengths": [
+              "Strong accounting and financial management skills",
+              "Team leadership experience"
+            ],
+            "main_gap": "Lacks the required technical skills and experience in integration development."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 70,
+            "tier": "Tier 2 — Potential Fit",
+            "rationale": "Gonzalo has relevant experience in finance and administration, along with some exposure to Oracle EBS, but lacks direct experience as a Business Systems Analyst.",
+            "strengths": [
+              "Strong accounting and financial management skills",
+              "Team leadership experience"
+            ],
+            "main_gap": "Does not have the required experience as a Business Systems Analyst."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Gonzalo is a potential fit for the Business Systems Analyst role due to his experience in finance and administration, but he lacks the necessary integration experience for the Integration Developer position."
+      },
+      {
+        "id": "candidate-21",
+        "name": "Ximena Carballo Tabárez",
+        "current_role": "Healthcare Commercial Representative",
+        "location": "Uruguay",
+        "total_experience_years": 15,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle E-Business Suite",
+          "Customer Relationship Management (CRM)",
+          "Process Improvement"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 35,
+            "tier": "No Fit",
+            "rationale": "Ximena lacks the necessary technical skills and experience in integration development, particularly with Oracle EBS. Her background is primarily in sales and customer service rather than technical development.",
+            "strengths": [
+              "Strong customer relationship skills",
+              "Experience in process optimization",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lack of technical integration experience and relevant Oracle EBS knowledge."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 45,
+            "tier": "Weak Fit",
+            "rationale": "While Ximena has some experience with Oracle EBS, her background is not aligned with the technical requirements of a Business Systems Analyst role. Her experience is more focused on sales and customer service.",
+            "strengths": [
+              "Experience in customer service",
+              "Strong analytical skills",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Insufficient experience in business systems analysis and Oracle EBS functionalities."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Ximena's experience and skills do not align with the technical requirements for either job, making her a poor fit for both positions."
+      },
+      {
+        "id": "candidate-22",
+        "name": "Sebastián Roselló Pintos",
+        "current_role": "Analyst Programmer",
+        "location": "Uruguay",
+        "total_experience_years": 13,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle",
+          "Peoplesoft",
+          "Technical Integration"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 70,
+            "tier": "Potential Fit",
+            "rationale": "Sebastián has relevant experience with Oracle Applications and integration projects, but lacks specific experience with Oracle Integration Cloud and the required middleware solutions.",
+            "strengths": [
+              "Experience with Oracle EBS",
+              "Strong technical background",
+              "Involvement in large-scale projects"
+            ],
+            "main_gap": "Limited experience with Oracle Integration Cloud and specific middleware technologies."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 65,
+            "tier": "Potential Fit",
+            "rationale": "Sebastián has significant experience with Oracle EBS and has been involved in technical projects, but may not have the direct business analysis experience required for this role.",
+            "strengths": [
+              "Strong Oracle EBS expertise",
+              "Experience in project management",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lack of direct business systems analysis experience."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Sebastián has relevant experience for both roles, particularly with Oracle EBS, but lacks some specific skills for full alignment."
+      },
+      {
+        "id": "candidate-23",
+        "name": "Adriana Vidal Cuevas",
+        "current_role": "Treasury Analyst",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 5,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle E-Business Suite",
+          "Accounting",
+          "Financial Reporting"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 40,
+            "tier": "Weak Fit",
+            "rationale": "Adriana has experience with Oracle EBS but lacks the integration development experience and technical skills required for this role.",
+            "strengths": [
+              "Experience with Oracle EBS",
+              "Strong accounting background",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Insufficient technical integration experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 70,
+            "tier": "Potential Fit",
+            "rationale": "Adriana has relevant experience with Oracle EBS and financial systems, making her a potential fit for the Business Systems Analyst role.",
+            "strengths": [
+              "Strong financial analysis skills",
+              "Experience in treasury operations",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited experience in leading projects or complex system issues."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Adriana is a better fit for the Business Systems Analyst role due to her experience with Oracle EBS and financial systems, while lacking the technical integration skills for the other position."
+      },
+      {
+        "id": "candidate-24",
+        "name": "Esteban Vargas Galarza",
+        "current_role": "Accounting Specialist",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 10,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Acumatica ERP",
+          "Microsoft Excel",
+          "Accounts Payable"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 30,
+            "tier": "No Fit",
+            "rationale": "Esteban's experience is primarily in accounting and accounts payable, with no relevant integration development experience or technical skills in Oracle EBS.",
+            "strengths": [
+              "Strong accounting background",
+              "Experience in accounts payable",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lack of technical integration and Oracle EBS experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 50,
+            "tier": "Weak Fit",
+            "rationale": "While Esteban has some experience with Oracle EBS, his background is more focused on accounting rather than business systems analysis.",
+            "strengths": [
+              "Strong accounting skills",
+              "Experience in financial operations",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Insufficient experience in business systems analysis and project leadership."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Esteban's experience is not aligned with the technical requirements for either job, making him a poor fit for both positions."
+      },
+      {
+        "id": "candidate-25",
+        "name": "Romina Pintado Echeverría",
+        "current_role": "Customer Service Representative",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 5,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle E-Business Suite",
+          "Customer Service",
+          "Problem Solving"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 35,
+            "tier": "No Fit",
+            "rationale": "Romina has some experience with Oracle EBS but lacks the necessary technical skills and experience in integration development.",
+            "strengths": [
+              "Strong customer service skills",
+              "Bilingual proficiency",
+              "Problem-solving abilities"
+            ],
+            "main_gap": "Lack of technical integration experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 55,
+            "tier": "Weak Fit",
+            "rationale": "Romina's experience is more focused on customer service rather than business systems analysis, limiting her fit for this role.",
+            "strengths": [
+              "Experience with Oracle EBS",
+              "Strong communication skills",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Insufficient experience in business systems analysis."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Romina's background is not aligned with the technical requirements for either job, making her a poor fit for both positions."
+      },
+      {
+        "id": "candidate-26",
+        "name": "Hernán Lacuesta Bordoni",
+        "current_role": "Lic. de Comercio Exterior",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 10,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Microsoft Excel",
+          "Oracle E-Business Suite",
+          "Data Analysis"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 50,
+            "tier": "Weak Fit",
+            "rationale": "Hernán has experience with Oracle EBS but lacks the specific integration development experience and technical skills required for this role.",
+            "strengths": [
+              "Experience in foreign trade",
+              "Strong analytical skills",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited experience in integration development."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 70,
+            "tier": "Potential Fit",
+            "rationale": "Hernán has relevant experience with Oracle EBS and financial operations, making him a potential fit for the Business Systems Analyst role.",
+            "strengths": [
+              "Strong analytical skills",
+              "Experience in supply chain management",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Limited experience in leading projects or complex system issues."
+          }
+        },
+        "classification": "Job B only",
+        "overall_rationale": "Hernán is a better fit for the Business Systems Analyst role due to his experience with Oracle EBS and analytical skills, while lacking the technical integration skills for the other position."
+      },
+      {
+        "id": "candidate-27",
+        "name": "Mariana Acuña Espinosa",
+        "current_role": "Office Administrative Assistant",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 7,
+        "languages": [
+          "Spanish"
+        ],
+        "top_skills": [
+          "Oracle E-Business Suite",
+          "Microsoft Excel",
+          "Administration"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 30,
+            "tier": "No Fit",
+            "rationale": "Mariana's experience is primarily in administration and lacks the necessary technical skills and experience in integration development.",
+            "strengths": [
+              "Strong administrative skills",
+              "Experience with Oracle EBS",
+              "Attention to detail"
+            ],
+            "main_gap": "Lack of technical integration experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 50,
+            "tier": "Weak Fit",
+            "rationale": "While Mariana has some experience with Oracle EBS, her background is more focused on administration rather than business systems analysis.",
+            "strengths": [
+              "Strong organizational skills",
+              "Experience in administrative roles",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Insufficient experience in business systems analysis."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Mariana's experience is not aligned with the technical requirements for either job, making her a poor fit for both positions."
+      },
+      {
+        "id": "candidate-28",
+        "name": "Pablo Ibáñez Cantera",
+        "current_role": "Professional Freelancer",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 20,
+        "languages": [
+          "English"
+        ],
+        "top_skills": [
+          "Java",
+          "Oracle Forms",
+          "PL/SQL"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 90,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "Pablo has extensive experience as an Oracle eBS Tech Consultant with strong technical skills in PL/SQL and Oracle Forms, making him an excellent fit for the integration developer role.",
+            "strengths": [
+              "20+ years of experience",
+              "Strong technical skills in Oracle technologies",
+              "Proven track record in customizations and troubleshooting"
+            ],
+            "main_gap": "Limited experience with Oracle Integration Cloud specifically."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 80,
+            "tier": "Tier 1 — Strong Fit",
+            "rationale": "Pablo's extensive experience with Oracle eBS and technical consulting makes him a strong candidate for the Business Systems Analyst role as well.",
+            "strengths": [
+              "Strong technical background",
+              "Proven experience in Oracle eBS",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "None significant."
+          }
+        },
+        "classification": "Both",
+        "overall_rationale": "Pablo is a strong fit for both roles due to his extensive experience and technical skills in Oracle eBS."
+      },
+      {
+        "id": "candidate-29",
+        "name": "Daniela Larrañaga Pose",
+        "current_role": "Account Analyst",
+        "location": "Montevideo, Uruguay",
+        "total_experience_years": 4,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "Oracle E-Business Suite",
+          "SAP",
+          "Power Query"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 45,
+            "tier": "Weak Fit",
+            "rationale": "Daniela has some experience with Oracle EBS but lacks the necessary integration development experience and technical skills required for this role.",
+            "strengths": [
+              "Experience with Oracle EBS",
+              "Strong analytical skills",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lack of technical integration experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 60,
+            "tier": "Weak Fit",
+            "rationale": "While Daniela has relevant experience with Oracle EBS, her background is more focused on accounting rather than business systems analysis.",
+            "strengths": [
+              "Strong analytical skills",
+              "Experience in accounting",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Insufficient experience in business systems analysis."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Daniela's experience is not aligned with the technical requirements for either job, making her a poor fit for both positions."
+      },
+      {
+        "id": "candidate-30",
+        "name": "Aarav Krishnan Sharma",
+        "current_role": "Designer / Producer",
+        "location": "Punta del Este, Uruguay",
+        "total_experience_years": 10,
+        "languages": [
+          "Spanish",
+          "English"
+        ],
+        "top_skills": [
+          "3D Printing",
+          "Business Analysis",
+          "Event Organization"
+        ],
+        "scores": {
+          "job-a-integration-developer-oracle-ebs": {
+            "score": 20,
+            "tier": "No Fit",
+            "rationale": "Aarav's experience is primarily in design and production, lacking any relevant technical skills or experience in integration development.",
+            "strengths": [
+              "Strong creative skills",
+              "Experience in project management",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lack of relevant technical experience."
+          },
+          "job-b-business-systems-analyst-oracle-ebs": {
+            "score": 25,
+            "tier": "No Fit",
+            "rationale": "Aarav's background in design and production does not align with the requirements for a Business Systems Analyst role.",
+            "strengths": [
+              "Strong project management skills",
+              "Creative problem-solving abilities",
+              "Bilingual proficiency"
+            ],
+            "main_gap": "Lack of relevant experience in business systems analysis."
+          }
+        },
+        "classification": "None",
+        "overall_rationale": "Aarav's experience is not aligned with the technical requirements for either job, making him a poor fit for both positions."
+      }
+    ]
+  },
+  "summary": {
+    "job-a-integration-developer-oracle-ebs": {
+      "title": "Integration Developer — Oracle EBS",
+      "tier_counts": {
+        "Tier 1 — Strong Fit": 3,
+        "Tier 2 — Potential Fit": 8,
+        "Tier 3 — Weak Fit": 7,
+        "No Fit": 8,
+        "Potential Fit": 1,
+        "Weak Fit": 3
+      },
+      "tiers": {
+        "Tier 1 — Strong Fit": [
+          "Alejandro Pereira Vázquez",
+          "Florencia Cardozo Lema",
+          "Pablo Ibáñez Cantera"
+        ],
+        "Tier 2 — Potential Fit": [
+          "Lucía Fernández Méndez",
+          "Diego Martínez Castro",
+          "Joaquín Salgado Núñez",
+          "Renata Cabral Brizuela",
+          "Bruno Olivera Suárez",
+          "Ignacio Barreto Aldana",
+          "Rohan Iyer Subramaniam",
+          "Andrés Saravia Núñez"
+        ],
+        "Tier 3 — Weak Fit": [
+          "Sofía Rodríguez Bermúdez",
+          "Mateo Silva Cabrera",
+          "Camila Etcheverry Soto",
+          "Tomás Iglesias Rivero",
+          "Pilar Mendoza Castellanos",
+          "Federico Larrosa Ventura",
+          "Gonzalo Risso Trelles"
+        ],
+        "No Fit": [
+          "Valentina Acosta Romero",
+          "Manuela Posadas Quintero",
+          "Beatriz Otero Sandoval",
+          "Ximena Carballo Tabárez",
+          "Esteban Vargas Galarza",
+          "Romina Pintado Echeverría",
+          "Mariana Acuña Espinosa",
+          "Aarav Krishnan Sharma"
+        ],
+        "Potential Fit": [
+          "Sebastián Roselló Pintos"
+        ],
+        "Weak Fit": [
+          "Adriana Vidal Cuevas",
+          "Hernán Lacuesta Bordoni",
+          "Daniela Larrañaga Pose"
+        ]
+      }
+    },
+    "job-b-business-systems-analyst-oracle-ebs": {
+      "title": "Business Systems Analyst — Oracle EBS",
+      "tier_counts": {
+        "Tier 1 — Strong Fit": 7,
+        "Tier 2 — Potential Fit": 9,
+        "Tier 3 — Weak Fit": 4,
+        "No Fit": 2,
+        "Weak Fit": 5,
+        "Potential Fit": 3
+      },
+      "tiers": {
+        "Tier 1 — Strong Fit": [
+          "Alejandro Pereira Vázquez",
+          "Joaquín Salgado Núñez",
+          "Tomás Iglesias Rivero",
+          "Renata Cabral Brizuela",
+          "Florencia Cardozo Lema",
+          "Andrés Saravia Núñez",
+          "Pablo Ibáñez Cantera"
+        ],
+        "Tier 2 — Potential Fit": [
+          "Lucía Fernández Méndez",
+          "Diego Martínez Castro",
+          "Bruno Olivera Suárez",
+          "Pilar Mendoza Castellanos",
+          "Ignacio Barreto Aldana",
+          "Federico Larrosa Ventura",
+          "Manuela Posadas Quintero",
+          "Rohan Iyer Subramaniam",
+          "Gonzalo Risso Trelles"
+        ],
+        "Tier 3 — Weak Fit": [
+          "Sofía Rodríguez Bermúdez",
+          "Mateo Silva Cabrera",
+          "Camila Etcheverry Soto",
+          "Beatriz Otero Sandoval"
+        ],
+        "No Fit": [
+          "Valentina Acosta Romero",
+          "Aarav Krishnan Sharma"
+        ],
+        "Weak Fit": [
+          "Ximena Carballo Tabárez",
+          "Esteban Vargas Galarza",
+          "Romina Pintado Echeverría",
+          "Mariana Acuña Espinosa",
+          "Daniela Larrañaga Pose"
+        ],
+        "Potential Fit": [
+          "Sebastián Roselló Pintos",
+          "Adriana Vidal Cuevas",
+          "Hernán Lacuesta Bordoni"
+        ]
+      }
+    }
+  }
+}

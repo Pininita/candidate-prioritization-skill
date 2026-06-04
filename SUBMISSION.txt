@@ -1,0 +1,33 @@
+SUBMISSION — Candidate Prioritization Skill
+============================================
+
+Loom Video (5 min walkthrough):
+→ 
+
+Notion Report (published output):
+→ https://app.notion.com/p/Candidate-Prioritization-Report-2026-06-04-375faf5fa99f81f29674ff6aa3decf62?source=copy_link
+
+Total time invested:
+→ ~2 hours
+
+---
+
+What this skill does:
+Reads any set of candidate profiles (PDF/TXT) and job descriptions from local folders,
+classifies each candidate against every job using Claude with a structured scoring rubric,
+and publishes a prioritized recruiter report directly to Notion via MCP.
+
+How I built it:
+- Python script (run_skill.py) orchestrates the full pipeline
+- Claude API classifies candidates and returns structured JSON
+- Notion MCP integration publishes the formatted report
+- agent.md documents the skill logic for any AI agent to execute
+
+What I learned:
+- Structuring prompts for consistent JSON output at scale
+- MCP server integration with Notion's official API
+- Designing recruiter-friendly report formats that are actionable
+
+Challenges:
+- Ensuring the scoring rubric was applied consistently across all 30 candidates
+- Designing the Notion page structure to be both readable and detailed
